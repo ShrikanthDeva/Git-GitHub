@@ -5,7 +5,7 @@ Topics Covered :
 -
   1.   What is git?
   2.   What is version control?
-  3.   Terms to be learn in video
+  3.   Terms to be learnt
   4.   Git commands
   5.   Sign up in GitHub
   6.   Using git in local machine
@@ -29,11 +29,3 @@ References:
 =
 
 [Git & Github Crash Couse](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
-
-
- 
-    
-  
- 
-    
