@@ -88,34 +88,6 @@ Git show
       git show iasbfvoiqub198rhh9hrf 
     ``` 
 
-Git branch
--
-  + ``` git branch  ```  command that lists all the local branches in the current repository.
-  + Current branch is indicated with ``` * ```.
-  + ``` git branch [branch name] ```  command that creates a new branch.
-  + ``` git branch -d [branch name] ```  command that deletes the feature branch.
-  + Eg - 
-    ``` 
-      git branch branch1 
-    ``` 
-
-Git checkout
--
-  + ``` git checkout [branch name]  ```  command that is used to switch from one branch to another.
-  + ``` git checkout -b [branch name] ```  command that creates a new branch and also switches to it.
-  + Eg - 
-    ``` 
-      git checkout -b branch2 
-    ``` 
-
-Git merge
--
-  + ``` git merge [branch name]  ```  command that merges the specified branch's history into current branch.
-  + Eg - 
-    ``` 
-      git merge branch2 
-    ``` 
-
 Git remote
 -
   + ``` git remote add [variable name] [Remote server link]  ```  command that is used to connect your local repository to the remote server.
