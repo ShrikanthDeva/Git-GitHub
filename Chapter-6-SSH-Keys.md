@@ -6,17 +6,37 @@ SSH KEYS
   - Therefore, they need to connect the local machine to Github account.
 
   ### Steps to Connect Local Machine to Github
-  - Generate the SSH keys local using ``` ssh-keygen -t rsa -b 4096 -C "Your_email.com" ```
-      + Type of encryption -> -t rsa
-      + Strength of encryption -> -b 4096
+  - Generate the SSH keys local using the command given below
+     - Type of encryption -> -t rsa
+     - Strength of encryption -> -b 4096  
+  ```
+  ssh-keygen -t rsa -b 4096 -C "Your_email.com" 
+  ```
+  - Type of encryption -> -t rsa
+  - Strength of encryption -> -b 4096
 
   -  Enter the file name to save the key.
   -  Enter passphrase or leave it blank.
   -  Your Key is generated.
   -  To know your key give ``` cat [filename].pub ``` command.
   -  Copy the key by just highlighting it or give ``` pcopy < [ file location] ```.
-  -  Goto Github hit ***settings*** hit ***SSH and GPG Keys*** hit ***new SSH Keys*** and paste the copied key.
   
   ### Adding SSH Keys to SSH Agent
-  - 
+  - To ensure the ssh-agent is running type the following command.
+  ```
+  # start the ssh-agent in the background
+  $ eval "$(ssh-agent -s)"
+  ```
+  - This results in 
+  ```
+  > Agent pid 59566
+  ```
+  - Add SSH private key to the ssh-agent.
+  ```
+  $ ssh-add ~/.ssh/id_ed25519
+  ```
+  - Goto Github hit ***settings*** hit ***SSH and GPG Keys*** hit ***new SSH Keys*** and paste the copied key.
+  
+
+
   
