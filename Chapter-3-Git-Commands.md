@@ -121,8 +121,20 @@ Git pull
       git pull https://github.com/abc/123.git 
     ``` 
 
+Extra Notes:
+-
 
++ Command to delete the particular file/folder ( This deletes from filesystem) :
+    ```
+      git rm -r one-of-the-directories 
+    ```
+    + Then Commit the changes and push to origin.
 
++ Command to undo the last commit :
+    ```
+      git push origin +[hashkey]^:main
+    ```
+    
 
 
 
