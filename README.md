@@ -12,6 +12,7 @@ Topics Covered :
   7.   [Git branching](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter-7-Branching-Merging.md)
   8.   [Undoing in git](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter-8-Undoing-in-Git.md)
   9.   [Forking in git](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter-9-Forking.md)
+  10.  [Interactive Rebase](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter 10-Interactive-Rebase.md)
 
 References:
 =
