@@ -13,6 +13,7 @@ Topics Covered :
   8.   [Undoing in git](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter-8-Undoing-in-Git.md)
   9.   [Forking in git](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter-9-Forking.md)
   10.  [Interactive Rebase](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%2010-%20Interactive-Rebase.md)
+  11.  [Cherry-Picking](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%2011-%20Cherry-Picking.md)
 
 References:
 =
