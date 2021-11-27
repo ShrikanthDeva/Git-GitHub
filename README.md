@@ -14,7 +14,8 @@ Topics Covered :
   9.   [Forking in git](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%209-Forking.md)
   10.  [Interactive Rebase](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%2010-%20Interactive-Rebase.md)
   11.  [Cherry-Picking](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%2011-%20Cherry-Picking.md)
-
+  12.  [Reflog](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%2012-Reflog.md)
+  13.  [Submodules](https://github.com/ShrikanthDeva/Git-GitHub/blob/main/Chapter%2013-%20Submodules.md)
 References:
 =
 
