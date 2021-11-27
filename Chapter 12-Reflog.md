@@ -58,4 +58,14 @@ Git keeps track of updates to the tip of branches using a mechanism called refer
   ```
     git reflog --since="2 days ago" --all
   ```
+  ```
+    git log --after=[date] --before=[date]
+  ```
+  ```
+    git log --grep=[commit_msg]
+  ```
+  ```
+    git log --author=[author_name]
+  ```
+  
   
