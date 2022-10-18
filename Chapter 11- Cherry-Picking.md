@@ -12,7 +12,7 @@ Cherry Picking
   ```
     git cherry pick [hash-key-of-the-commit-you-wanna-copy]
   ```
-+ You will get the copy of the commit in your requird branch
++ You will get the copy of the commit in your required branch
 + If you cherry-pick from a public branch, you should consider using
   ```
     git cherry-pick -x <commit-hash>
